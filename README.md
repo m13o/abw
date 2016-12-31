@@ -1,5 +1,5 @@
 # Quaderno minimo per AbiWord
-Quaderno minimo per Abiword è una breve guida scritta in Italiano che illustra le funzioni base di [AbiWord](http://www.abisource.com/). La versione corrente è la 0.1.3 (preAlpha) ed è disponibile in formatp PDF.
+Quaderno minimo per Abiword è una breve guida scritta in Italiano che illustra le funzioni base di [AbiWord](http://www.abisource.com/). La versione corrente è la 0.1.3 (preAlpha) ed è disponibile in formato PDF.
 
 ## Indice del documento:
 * AbiWord: Come e perché
