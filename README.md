@@ -16,4 +16,4 @@ Quaderno minimo per Abiword è una breve guida scritta in Italiano che illustra 
 * Altre funzioni utili
 
 # Template (Modelli per AbiWord)
-* [T-Fax-Semplice-ITA-0.1.7z](https://github.com/m13o/abw/blob/master/T-Fax-Semplice-ITA-0.1.7z) è un semplice modello in Italiano per l'invio di un FAX. Comprende i vari campi per la pagina di copertina ed un pié di pagina per la numerazione delle pagine. Il file usa il formato standard AWT dei templeate di Abiword.
+* [T-Fax-Semplice-ITA-0.1.7z](https://github.com/m13o/abw/blob/master/T-Fax-Semplice-ITA-0.1.7z) è un semplice modello in Italiano per l'invio di un FAX. Comprende i vari campi per la pagina di copertina ed un pié di pagina per la numerazione delle pagine. Il file usa il formato standard AWT dei template di AbiWord.
