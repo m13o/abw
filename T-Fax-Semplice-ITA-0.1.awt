@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
+<abiword template="false" styles="unlocked" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="123" xmlns:dc="http://purl.org/dc/elements/1.1/" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.9.1" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:it-IT; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
+<!-- ======================================================================== -->
+<!-- This file is an AbiWord document.                                        -->
+<!-- AbiWord is a free, Open Source word processor.                           -->
+<!-- More information about AbiWord is available at http://www.abisource.com/ -->
+<!-- You should not edit this file by hand.                                   -->
+<!-- ======================================================================== -->
+
+<metadata>
+<m key="dc.format">application/x-abiword</m>
+<m key="abiword.generator">AbiWord</m>
+</metadata>
+<history version="8" edit-time="2667" last-saved="1488098976" uid="466b1546-fbfa-11e6-849f-d24455f38a72">
+<version id="5" started="1488096744" uid="a7e0a54a-fbfd-11e6-849f-d24455f38a72" auto="0" top-xid="51"/>
+<version id="8" started="1488097930" uid="800fa7de-fc00-11e6-9718-fd5f24e722e4" auto="0" top-xid="123"/>
+</history>
+<styles>
+<s followedby="Normal" name="Heading 1" basedon="Normal" type="P" props="margin-top:22pt; font-size:24pt; margin-bottom:3pt; color:808080; font-weight:normal; keep-with-next:1; font-family:Arial"/>
+<s followedby="Current Settings" name="Normal" type="P" props="font-weight:normal; font-family:Times New Roman; margin-top:0pt; font-style:normal; margin-left:0.50cm; widows:2; font-variant:normal; text-indent:0in; margin-bottom:0pt; text-decoration:none; bgcolor:transparent; margin-right:0.50cm; color:000000; font-size:12pt; line-height:1.0; text-align:left; font-stretch:normal"/>
+<s followedby="Normal" name="Heading 2" basedon="Normal" type="P" props="keep-with-next:1; font-size:14pt; margin-bottom:9pt; font-weight:bold; text-align:center; font-family:Arial; margin-top:22pt"/>
+<s followedby="Current Settings" name="Footnote Text" basedon="Normal" type="C" props="text-align:center; text-position:normal; font-size:10pt"/>
+<s type="C" name="Reference" props="font-size:10pt"/>
+</styles>
+<pagesize pagetype="A4" orientation="portrait" width="210.000000" height="297.000000" units="mm" page-scale="1.000000"/>
+<section footer="0" xid="50" props="page-margin-footer:0.5000in; page-margin-header:0.5000in; page-margin-right:1.0000in; page-margin-left:1.0000in; page-margin-top:1.0000in; page-margin-bottom:1.0000in">
+<p style="Heading 1" xid="51">Invio Fax<c></c></p>
+<p style="Normal" xid="41"><c></c></p>
+<p style="Normal" xid="42"><c></c></p>
+<table xid="12" props="table-row-heights:0.62cm/0.62cm/0.62cm/0.62cm/0.62cm/; list-tag:1">
+<cell xid="13" props="bot-attach:1; left-attach:0; background-color:c0c0c0; top-attach:0; right-attach:1">
+<p style="Heading 2" xid="14"><c props="lang:it-IT">Oggetto e destinatario</c><c props="lang:it-IT"></c></p>
+</cell>
+<cell xid="16" props="bot-attach:2; left-attach:0; right-attach:1; top-attach:1">
+<p style="Normal" xid="17"><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:it-IT">Data: </c><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:it-IT"></c><field type="date_ddmmyy" xid="110" props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:it-IT"></field></p>
+</cell>
+<cell xid="46" props="bot-attach:3; left-attach:0; right-attach:1; top-attach:2">
+<p style="Normal" xid="47">Oggetto:</p>
+</cell>
+<cell xid="43" props="bot-attach:4; left-attach:0; right-attach:1; top-attach:3">
+<p style="Normal" xid="44">A:</p>
+</cell>
+<cell xid="19" props="bot-attach:5; left-attach:0; right-attach:1; top-attach:4">
+<p style="Normal" xid="20">All'attenzione di:</p>
+</cell>
+</table>
+<p style="Normal" xid="11"><c></c></p>
+<p style="Normal" xid="5"><c></c></p>
+<table xid="24" props="list-tag:1">
+<cell xid="25" props="bot-attach:1; left-attach:0; background-color:c0c0c0; top-attach:0; right-attach:1">
+<p style="Heading 2" xid="26"><c props="lang:it-IT">Mittente</c><c props="lang:it-IT"></c></p>
+</cell>
+<cell xid="28" props="bot-attach:2; left-attach:0; right-attach:1; top-attach:1">
+<p style="Normal" xid="29"><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:it-IT">Da:</c><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:it-IT"></c></p>
+</cell>
+<cell xid="31" props="bot-attach:3; left-attach:0; right-attach:1; top-attach:2">
+<p style="Normal" xid="32"><c props="text-position:normal; lang:it-IT">Indirizzo:</c><c props="text-position:normal; lang:it-IT"></c></p>
+</cell>
+<cell xid="34" props="bot-attach:4; left-attach:0; right-attach:1; top-attach:3">
+<p style="Normal" xid="35"><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:it-IT">Telefono:</c><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:it-IT"></c></p>
+</cell>
+<cell xid="37" props="bot-attach:5; left-attach:0; right-attach:1; top-attach:4">
+<p style="Normal" xid="38">Fax:</p>
+</cell>
+</table>
+<p style="Normal" xid="23"><c></c></p>
+<p style="Normal" xid="52"><c></c></p>
+<p style="Normal" xid="10"><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:it-IT"></c></p>
+<table xid="102" props="list-tag:1">
+<cell xid="103" props="bot-attach:1; left-attach:0; background-color:c0c0c0; top-attach:0; right-attach:1">
+<p style="Heading 2" xid="104">Informazioni aggiuntive</p>
+</cell>
+<cell xid="106" props="bot-attach:2; left-attach:0; right-attach:1; top-attach:1">
+<p style="Normal" xid="107"><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:it-IT">Questo messaggio è composto da </c><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:it-IT"></c><field type="page_count" xid="112" props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:it-IT"></field><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:it-IT"> pagine. Vi preghiamo di segnalarci eventuali problemi di ricezione.</c></p>
+</cell>
+</table>
+<p style="Normal" xid="101"><c></c></p>
+<p style="Normal" xid="123">Contenuto del FAX</p>
+</section>
+<section id="0" listid="0" parentid="0" type="footer" xid="113">
+<p xid="114" props="text-align:center"><c style="Footnote Text">FAX - Data di invio: </c><c style="Footnote Text"></c><field type="date_ddmmyy" style="Footnote Text" xid="120"></field><c style="Footnote Text"> - Pagina </c><field type="page_number" style="Footnote Text" xid="121"></field><c style="Footnote Text"> di </c><field type="page_count" style="Footnote Text" xid="122"></field></p>
+</section>
+</abiword>
