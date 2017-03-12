@@ -18,3 +18,4 @@
 # Template (Modelli per AbiWord)
 * [T-Fax-Semplice-ITA-0.1.7z](https://github.com/m13o/abw/blob/master/T-Fax-Semplice-ITA-0.1.7z): un semplice modello in Italiano per l'invio di un FAX. Comprende i vari campi per la pagina di copertina ed un pié di pagina per la numerazione delle pagine. Il file usa il formato standard AWT dei template di AbiWord.
 * [T-Comunicato-Stampa-ITA-0.1.7z](https://github.com/m13o/abw/blob/master/T-Comunicato-Stampa-ITA-0.1.7z): un modello per la creazione di comunicati stampa con logo, intestazioni e pié di pagina per le informazioni di contatto.
+* [T-Relazione-ITA-0.1.7z](https://github.com/m13o/abw/blob/master/T-Relazione-ITA-0.1.7z): semplice modello AWT per AbiWord per relazioni e documenti generici.
